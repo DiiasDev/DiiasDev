@@ -48,7 +48,7 @@
 
 ## 📫 Onde me encontrar
 
-- 🌐 **Portfolio:** [repositoriodias.netlify.app](https://repositoriodias.netlify.app)
+- 🌐 **Portfolio:** [repositoriodias.netlify.app](https://diiasdevportifolio.netlify.app/)
 - 💼 **LinkedIn:** [Gabriel Dias](https://www.linkedin.com/in/gabriel-dias-8a8209255/)
 - 💻 **GitHub:** [@DiiasDev](https://github.com/DiiasDev)
 
